@@ -1,0 +1,194 @@
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    anaconda-2022.10           |          py310_0          13 KB
+    arrow-1.2.3                |   py39haa95532_0         145 KB
+    attrs-22.1.0               |   py39haa95532_0          84 KB
+    babel-2.11.0               |   py39haa95532_0         6.8 MB
+    botocore-1.27.59           |   py39haa95532_0         5.7 MB
+    certifi-2022.12.7          |   py39haa95532_0         149 KB
+    cffi-1.15.1                |   py39h2bbff1b_3         238 KB
+    colorama-0.4.6             |   py39haa95532_0          32 KB
+    colorcet-3.0.1             |   py39haa95532_0         1.9 MB
+    comm-0.1.2                 |   py39haa95532_0          14 KB
+    conda-build-3.23.3         |   py39haa95532_0         576 KB
+    contourpy-1.0.5            |   py39h59b6b97_0         159 KB
+    cryptography-38.0.1        |   py39h21b164f_0         991 KB
+    curl-7.86.0                |       h2bbff1b_0         144 KB
+    cytoolz-0.12.0             |   py39h2bbff1b_0         288 KB
+    dask-2022.2.1              |     pyhd3eb1b0_0           5 KB
+    dask-core-2022.2.1         |     pyhd3eb1b0_0         747 KB
+    datashader-0.14.3          |   py39haa95532_0        16.8 MB
+    distributed-2022.2.1       |     pyhd3eb1b0_0         659 KB
+    filelock-3.9.0             |   py39haa95532_0          19 KB
+    flit-core-3.6.0            |     pyhd3eb1b0_0          42 KB
+    fsspec-2022.11.0           |   py39haa95532_0         224 KB
+    greenlet-2.0.1             |   py39hd77b12b_0         179 KB
+    holoviews-1.15.3           |   py39haa95532_0         4.4 MB
+    hvplot-0.8.2               |   py39haa95532_0         3.1 MB
+    idna-3.4                   |   py39haa95532_0          93 KB
+    intake-0.6.6               |   py39haa95532_0         221 KB
+    ipykernel-6.19.2           |   py39hd4e2768_0         218 KB
+    joblib-1.1.1               |   py39haa95532_0         383 KB
+    jupyter_client-7.4.8       |   py39haa95532_0         227 KB
+    jupyter_console-6.4.4      |   py39haa95532_0          62 KB
+    jupyter_core-5.1.1         |   py39haa95532_0         107 KB
+    jupyter_server-1.23.4      |   py39haa95532_0         399 KB
+    jupyterlab-3.5.2           |   py39haa95532_0         4.2 MB
+    kiwisolver-1.4.4           |   py39hd77b12b_0          60 KB
+    libcurl-7.86.0             |       h86230a5_0         319 KB
+    liblief-0.12.3             |       hd77b12b_0         2.4 MB
+    libtiff-4.4.0              |       h8a3f274_2         837 KB
+    libwebp-1.2.4              |       h2bbff1b_0          67 KB
+    libwebp-base-1.2.4         |       h2bbff1b_0         279 KB
+    libxgboost-1.5.0           |       hd77b12b_2         1.3 MB
+    llvmlite-0.39.1            |   py39h23ce68f_0        13.3 MB
+    lz4-c-1.9.4                |       h2bbff1b_0         143 KB
+    markdown-3.4.1             |   py39haa95532_0         148 KB
+    matplotlib-3.6.2           |   py39haa95532_0           9 KB
+    matplotlib-base-3.6.2      |   py39h1094b8e_0         6.5 MB
+    nbclassic-0.4.8            |   py39haa95532_0         5.9 MB
+    nbformat-5.7.0             |   py39haa95532_0         152 KB
+    nest-asyncio-1.5.6         |   py39haa95532_0          15 KB
+    notebook-6.5.2             |   py39haa95532_0         538 KB
+    notebook-shim-0.2.2        |   py39haa95532_0          23 KB
+    numba-0.56.4               |   py39hf11a4ad_0         4.0 MB
+    numexpr-2.8.4              |   py39h5b0cc5e_0         127 KB
+    numpydoc-1.5.0             |   py39haa95532_0          91 KB
+    openssl-1.1.1s             |       h2bbff1b_0         5.5 MB
+    packaging-22.0             |   py39haa95532_0          67 KB
+    panel-0.14.1               |   py39haa95532_0        12.8 MB
+    param-1.12.3               |   py39haa95532_0         149 KB
+    pillow-9.3.0               |   py39hdc2b20a_1         994 KB
+    pip-22.3.1                 |   py39haa95532_0         2.7 MB
+    pkginfo-1.8.3              |   py39haa95532_0          62 KB
+    prompt-toolkit-3.0.36      |   py39haa95532_0         565 KB
+    prompt_toolkit-3.0.36      |       hd3eb1b0_0           5 KB
+    py-lief-0.12.3             |   py39hd77b12b_0         2.0 MB
+    py-xgboost-1.5.0           |   py39haa95532_2         156 KB
+    pycosat-0.6.4              |   py39h2bbff1b_0          74 KB
+    python-3.9.15              |       h6244533_2        19.4 MB
+    python-snappy-0.6.1        |   py39hd77b12b_0          33 KB
+    pytz-2022.7                |   py39haa95532_0         210 KB
+    pywavelets-1.4.1           |   py39h2bbff1b_0         3.5 MB
+    pywin32-305                |   py39h2bbff1b_0        10.7 MB
+    ruamel_yaml-0.17.21        |   py39h2bbff1b_0         190 KB
+    scikit-image-0.19.3        |   py39hd77b12b_1        10.0 MB
+    scipy-1.9.3                |   py39he11b74f_0        18.0 MB
+    seaborn-0.12.1             |   py39haa95532_0         474 KB
+    setuptools-65.5.0          |   py39haa95532_0         1.1 MB
+    soupsieve-2.3.2.post1      |   py39haa95532_0          66 KB
+    sympy-1.11.1               |   py39haa95532_0        11.7 MB
+    terminado-0.17.1           |   py39haa95532_0          32 KB
+    toolz-0.12.0               |   py39haa95532_0         106 KB
+    tornado-6.2                |   py39h2bbff1b_0         609 KB
+    traitlets-5.7.1            |   py39haa95532_0         205 KB
+    typing-extensions-4.4.0    |   py39haa95532_0           9 KB
+    typing_extensions-4.4.0    |   py39haa95532_0          47 KB
+    tzdata-2022g               |       h04d1e81_0         114 KB
+    urllib3-1.26.13            |   py39haa95532_0         193 KB
+    xarray-2022.11.0           |   py39haa95532_0         1.6 MB
+    xz-5.2.8                   |       h8cc25b3_0         205 KB
+    zipp-3.11.0                |   py39haa95532_0          20 KB
+    ------------------------------------------------------------
+                                           Total:       188.9 MB
+
+The following NEW packages will be INSTALLED:
+
+  comm               pkgs/main/win-64::comm-0.1.2-py39haa95532_0
+  contourpy          pkgs/main/win-64::contourpy-1.0.5-py39h59b6b97_0
+  flit-core          pkgs/main/noarch::flit-core-3.6.0-pyhd3eb1b0_0
+  libwebp-base       pkgs/main/win-64::libwebp-base-1.2.4-h2bbff1b_0
+  notebook-shim      pkgs/main/win-64::notebook-shim-0.2.2-py39haa95532_0
+
+The following packages will be REMOVED:
+
+  lz4-3.1.3-py39h2bbff1b_0
+
+The following packages will be UPDATED:
+
+  arrow              pkgs/main/noarch::arrow-1.2.2-pyhd3eb~ --> pkgs/main/win-64::arrow-1.2.3-py39haa95532_0
+  attrs              pkgs/main/noarch::attrs-21.4.0-pyhd3e~ --> pkgs/main/win-64::attrs-22.1.0-py39haa95532_0
+  babel              pkgs/main/noarch::babel-2.9.1-pyhd3eb~ --> pkgs/main/win-64::babel-2.11.0-py39haa95532_0
+  botocore                           1.27.28-py39haa95532_0 --> 1.27.59-py39haa95532_0
+  ca-certificates                     2022.07.19-haa95532_0 --> 2022.10.11-haa95532_0
+  certifi                          2022.9.14-py39haa95532_0 --> 2022.12.7-py39haa95532_0
+  cffi                                1.15.1-py39h2bbff1b_0 --> 1.15.1-py39h2bbff1b_3
+  colorama                             0.4.5-py39haa95532_0 --> 0.4.6-py39haa95532_0
+  colorcet                             3.0.0-py39haa95532_0 --> 3.0.1-py39haa95532_0
+  conda-build                         3.22.0-py39haa95532_0 --> 3.23.3-py39haa95532_0
+  cryptography                        37.0.1-py39h21b164f_0 --> 38.0.1-py39h21b164f_0
+  curl                                    7.84.0-h2bbff1b_0 --> 7.86.0-h2bbff1b_0
+  cytoolz                             0.11.0-py39h2bbff1b_0 --> 0.12.0-py39h2bbff1b_0
+  datashader                          0.14.1-py39haa95532_0 --> 0.14.3-py39haa95532_0
+  filelock           pkgs/main/noarch::filelock-3.6.0-pyhd~ --> pkgs/main/win-64::filelock-3.9.0-py39haa95532_0
+  freetype                                2.10.4-hd328e21_0 --> 2.12.1-ha860e81_0
+  fsspec                            2022.7.1-py39haa95532_0 --> 2022.11.0-py39haa95532_0
+  greenlet                             1.1.1-py39hd77b12b_0 --> 2.0.1-py39hd77b12b_0
+  holoviews                           1.15.0-py39haa95532_0 --> 1.15.3-py39haa95532_0
+  hvplot                               0.8.0-py39haa95532_0 --> 0.8.2-py39haa95532_0
+  idna               pkgs/main/noarch::idna-3.3-pyhd3eb1b0~ --> pkgs/main/win-64::idna-3.4-py39haa95532_0
+  intake             pkgs/main/noarch::intake-0.6.5-pyhd3e~ --> pkgs/main/win-64::intake-0.6.6-py39haa95532_0
+  ipykernel                           6.15.2-py39haa95532_0 --> 6.19.2-py39hd4e2768_0
+  joblib             pkgs/main/noarch::joblib-1.1.0-pyhd3e~ --> pkgs/main/win-64::joblib-1.1.1-py39haa95532_0
+  jupyter_client                       7.3.4-py39haa95532_0 --> 7.4.8-py39haa95532_0
+  jupyter_console    pkgs/main/noarch::jupyter_console-6.4~ --> pkgs/main/win-64::jupyter_console-6.4.4-py39haa95532_0
+  jupyter_core                        4.11.1-py39haa95532_0 --> 5.1.1-py39haa95532_0
+  jupyter_server                      1.18.1-py39haa95532_0 --> 1.23.4-py39haa95532_0
+  jupyterlab                           3.4.4-py39haa95532_0 --> 3.5.2-py39haa95532_0
+  kiwisolver                           1.4.2-py39hd77b12b_0 --> 1.4.4-py39hd77b12b_0
+  libcurl                                 7.84.0-h86230a5_0 --> 7.86.0-h86230a5_0
+  liblief                                 0.11.5-hd77b12b_1 --> 0.12.3-hd77b12b_0
+  libtiff                                  4.4.0-h8a3f274_0 --> 4.4.0-h8a3f274_2
+  libwebp                                  1.2.2-h2bbff1b_0 --> 1.2.4-h2bbff1b_0
+  libxgboost                               1.5.0-hd77b12b_1 --> 1.5.0-hd77b12b_2
+  llvmlite                            0.38.0-py39h23ce68f_0 --> 0.39.1-py39h23ce68f_0
+  lz4-c                                    1.9.3-h2bbff1b_1 --> 1.9.4-h2bbff1b_0
+  markdown                             3.3.4-py39haa95532_0 --> 3.4.1-py39haa95532_0
+  matplotlib                           3.5.2-py39haa95532_0 --> 3.6.2-py39haa95532_0
+  matplotlib-base                      3.5.2-py39hd77b12b_0 --> 3.6.2-py39h1094b8e_0
+  nbclassic          pkgs/main/noarch::nbclassic-0.3.5-pyh~ --> pkgs/main/win-64::nbclassic-0.4.8-py39haa95532_0
+  nbformat                             5.5.0-py39haa95532_0 --> 5.7.0-py39haa95532_0
+  nest-asyncio                         1.5.5-py39haa95532_0 --> 1.5.6-py39haa95532_0
+  notebook                            6.4.12-py39haa95532_0 --> 6.5.2-py39haa95532_0
+  numba                               0.55.1-py39hf11a4ad_0 --> 0.56.4-py39hf11a4ad_0
+  numexpr                              2.8.3-py39hb80d3ca_0 --> 2.8.4-py39h5b0cc5e_0
+  numpydoc                             1.4.0-py39haa95532_0 --> 1.5.0-py39haa95532_0
+  openssl                                 1.1.1q-h2bbff1b_0 --> 1.1.1s-h2bbff1b_0
+  packaging          pkgs/main/noarch::packaging-21.3-pyhd~ --> pkgs/main/win-64::packaging-22.0-py39haa95532_0
+  panel                               0.13.1-py39haa95532_0 --> 0.14.1-py39haa95532_0
+  param              pkgs/main/noarch::param-1.12.0-pyhd3e~ --> pkgs/main/win-64::param-1.12.3-py39haa95532_0
+  pillow                               9.2.0-py39hdc2b20a_1 --> 9.3.0-py39hdc2b20a_1
+  pip                                 22.2.2-py39haa95532_0 --> 22.3.1-py39haa95532_0
+  pkginfo            pkgs/main/noarch::pkginfo-1.8.2-pyhd3~ --> pkgs/main/win-64::pkginfo-1.8.3-py39haa95532_0
+  prompt-toolkit     pkgs/main/noarch::prompt-toolkit-3.0.~ --> pkgs/main/win-64::prompt-toolkit-3.0.36-py39haa95532_0
+  prompt_toolkit                          3.0.20-hd3eb1b0_0 --> 3.0.36-hd3eb1b0_0
+  py-lief                             0.11.5-py39hd77b12b_1 --> 0.12.3-py39hd77b12b_0
+  py-xgboost         anaconda::py-xgboost-1.5.0-py39haa955~ --> pkgs/main::py-xgboost-1.5.0-py39haa95532_2
+  pycosat                              0.6.3-py39h2bbff1b_0 --> 0.6.4-py39h2bbff1b_0
+  python                                  3.9.13-h6244533_1 --> 3.9.15-h6244533_2
+  python-snappy                        0.6.0-py39hd77b12b_3 --> 0.6.1-py39hd77b12b_0
+  pytz                                2022.1-py39haa95532_0 --> 2022.7-py39haa95532_0
+  pywavelets                           1.3.0-py39h2bbff1b_0 --> 1.4.1-py39h2bbff1b_0
+  pywin32                                302-py39h2bbff1b_2 --> 305-py39h2bbff1b_0
+  ruamel_yaml                       0.15.100-py39h2bbff1b_0 --> 0.17.21-py39h2bbff1b_0
+  scikit-image                        0.19.2-py39hf11a4ad_0 --> 0.19.3-py39hd77b12b_1
+  scipy                                1.9.1-py39he11b74f_0 --> 1.9.3-py39he11b74f_0
+  seaborn            pkgs/main/noarch::seaborn-0.11.2-pyhd~ --> pkgs/main/win-64::seaborn-0.12.1-py39haa95532_0
+  setuptools                          63.4.1-py39haa95532_0 --> 65.5.0-py39haa95532_0
+  soupsieve          pkgs/main/noarch::soupsieve-2.3.1-pyh~ --> pkgs/main/win-64::soupsieve-2.3.2.post1-py39haa95532_0
+  sqlite                                  3.39.3-h2bbff1b_0 --> 3.40.0-h2bbff1b_0
+  sympy                               1.10.1-py39haa95532_0 --> 1.11.1-py39haa95532_0
+  terminado                           0.13.1-py39haa95532_0 --> 0.17.1-py39haa95532_0
+  toolz              pkgs/main/noarch::toolz-0.11.2-pyhd3e~ --> pkgs/main/win-64::toolz-0.12.0-py39haa95532_0
+  tornado                                6.1-py39h2bbff1b_0 --> 6.2-py39h2bbff1b_0
+  traitlets          pkgs/main/noarch::traitlets-5.1.1-pyh~ --> pkgs/main/win-64::traitlets-5.7.1-py39haa95532_0
+  typing-extensions                    4.3.0-py39haa95532_0 --> 4.4.0-py39haa95532_0
+  typing_extensions                    4.3.0-py39haa95532_0 --> 4.4.0-py39haa95532_0
+  tzdata                                   2022c-h04d1e81_0 --> 2022g-h04d1e81_0
+  urllib3                            1.26.11-py39haa95532_0 --> 1.26.13-py39haa95532_0
+  xarray             pkgs/main/noarch::xarray-0.20.1-pyhd3~ --> pkgs/main/win-64::xarray-2022.11.0-py39haa95532_0
+  xz                                       5.2.6-h8cc25b3_0 --> 5.2.8-h8cc25b3_0
+  zipp                                 3.8.0-py39haa95532_0 --> 3.11.0-py39haa95532_0
+  zlib                                    1.2.12-h8cc25b3_3 --> 1.2.13-h8cc25b3_0

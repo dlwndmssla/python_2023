@@ -1,0 +1,5 @@
+import sklearn.preprocessing
+test = dir(sklearn.preprocessing)
+for name in test:
+    if "_" not in name:
+        print(name)
